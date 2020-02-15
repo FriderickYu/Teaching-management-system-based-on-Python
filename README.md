@@ -1,0 +1,2 @@
+# Teaching-management-system-based-on-Python
+A graduation project, to develop a teaching management system based on Python. In addition to implement some simple student, teacher, and course information management functions, it will also use Python's data analysis abilitis to achieve statistical analysis of related data, such as grade analysis. Through this system, it will help teachers understand the performance of student learning in a timely manner, and provide a reference for teaching management.
